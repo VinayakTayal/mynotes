@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1087503297947",
+    "project_id": "vinu-my-notes",
+    "storage_bucket": "vinu-my-notes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087503297947:android:6e733fc04992bda988053e",
+        "android_client_info": {
+          "package_name": "com.example.mynotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgE-obMxE2oLSp829T771Mvn8eh6nFgLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
